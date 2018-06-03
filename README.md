@@ -15,26 +15,26 @@
  
 По поводу курса: Детальной программы курса пока нет, будем ее строить по мере прохождения
 Верхнеуровнево думаю должно быть так:
-1.       Введение
-2.       Структуры данных и функции
-3.       Немного о Numpy
-4.       Очень много о Pandas
-5.       Очень много Визуализации
-6.       Темы по желанию
+1. Введение
+2. Структуры данных и функции
+3. Немного о Numpy
+4. Очень много о Pandas
+5. Очень много Визуализации
+6. Темы по желанию
  
 Первые две недели я хотел бы взять из курса https://www.coursera.org/learn/diving-in-python/home/welcome
 (Оттуда понадобятся 2 первых недели, можно записаться на audit курса, т.е. без оплаты. В этом случае будут доступны все видео, но без заданий, остальные 3 недели я считаю для анализа данных не нужны)
 Задание выдам в понедельник (не успел сделать)
  
 Полезности:
-1.       Еще поначалу полезно будет перед глазами иметь http://www.datasciencefree.com/python.pdf
-2.       Еще есть репозиторий с предыдущего обучения https://github.com/vboyadzhi/python-for-data-analysis (там введение растянулось на три недели, думаю это было слишком долго)
+1. Еще поначалу полезно будет перед глазами иметь http://www.datasciencefree.com/python.pdf
+2. Еще есть репозиторий с предыдущего обучения https://github.com/vboyadzhi/python-for-data-analysis (там введение растянулось на три недели, думаю это было слишком долго)
 Там есть три ноутбука с введением, по которому можно читать, запускать ячейки и разбираться 
 [Assignment_1](https://github.com/vboyadzhi/python-for-data-analysis/blob/master/Assignment_1.ipynb)
 [Assignment_2](https://github.com/vboyadzhi/python-for-data-analysis/blob/master/Assignment_2.ipynb)
 [Assignment_3](https://github.com/vboyadzhi/python-for-data-analysis/blob/master/Assignment_3.ipynb)
  
 ИТОГО Задание на неделю:
-1.       Просмотр первой недели из курса https://www.coursera.org/learn/diving-in-python/home/welcome
-2.       Решить вопрос с Python
-3.       В пн ждите дальнейших указаний
+1. Просмотр первой недели из курса https://www.coursera.org/learn/diving-in-python/home/welcome
+2. Решить вопрос с Python
+3. В пн ждите дальнейших указаний
