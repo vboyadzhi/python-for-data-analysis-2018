@@ -1,6 +1,7 @@
 <img src="imgs/python.png" align="left" height="140" width="140"><img src="imgs/mts.jpeg" align="right" height="140" width="140"><center><h1> Python for Data Analysis MTSBank</h1><h2>Syllabus</h2></center>
 
-# 1. Введение в Python
+## 1. Введение в Python
+0. Смотреть лекции https://www.coursera.org/learn/diving-in-python/home/week/1
 
 1. [Установка Python 3](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/01_%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20Python/01_00_%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%20Python%203.md)
 2. [Выбор Среды разработки](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/01_%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20Python/01_01_%D0%92%D1%8B%D0%B1%D0%BE%D1%80%20%D0%A1%D1%80%D0%B5%D0%B4%D1%8B%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8.md)
@@ -14,4 +15,4 @@
 10. [Виртуальное окружение](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/01_%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20Python/01_11_VirtualEnv.md)
 11. [Пример пишем программу](http://htmlpreview.github.io/?https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/01_%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20Python/01_10_primer_pishem_programmu%20slides.html)
 
-# [Задачи к уроку 1](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/01_tasks.ipynb)
+## [Задачи к уроку 1](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/01_tasks.ipynb)
