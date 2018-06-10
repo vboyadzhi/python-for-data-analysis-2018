@@ -21,17 +21,17 @@
 
 
 ### Дополнительный материал к уроку 2
- 1. [Списки, кортежи](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/02/lesson3_part1_lists_tuples)
- 2. [Алгоритм бинарного поиска в списке и сортировка списков¶](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/02/lesson3_part2_search_sort)
- 3. [Методы сортировки](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/02/lesson3_part2_sorting)
- 4. [Алгоритмы на строках](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/02/lesson3_part3_string_algo)
- 5. [Словари](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/02/lesson3_part4_dictionaries)
- 6. [Пример чтения данных из файла в словарь¶](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/02/lesson3_part5_reading_file_to_dict)
- 7. [Множества](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/02/lesson3_part6_sets)
- 8. [Стек, очередь, дерево, куча, граф](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/02/lesson4_part1_data_structures)
- 9. [Классические алгоритмы на графах](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/02/lesson4_part2_graph_algo)
- 10. [Функции](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/02/lesson5_part1_functions)
- 11. [Рекурсивные функции](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/02/lesson5_part2_recursion)
+ 1. [Списки, кортежи](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/02/lesson3_part1_lists_tuples.ipynb)
+ 2. [Алгоритм бинарного поиска в списке и сортировка списков¶](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/02/lesson3_part2_search_sort.ipynb)
+ 3. [Методы сортировки](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/02/lesson3_part2_sorting.ipynb)
+ 4. [Алгоритмы на строках](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/02/lesson3_part3_string_algo.ipynb)
+ 5. [Словари](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/02/lesson3_part4_dictionaries.ipynb)
+ 6. [Пример чтения данных из файла в словарь¶](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/02/lesson3_part5_reading_file_to_dict.ipynb)
+ 7. [Множества](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/02/lesson3_part6_sets.ipynb)
+ 8. [Стек, очередь, дерево, куча, граф](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/02/lesson4_part1_data_structures.ipynb)
+ 9. [Классические алгоритмы на графах](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/02/lesson4_part2_graph_algo.ipynb)
+ 10. [Функции](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/02/lesson5_part1_functions.ipynb)
+ 11. [Рекурсивные функции](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/02/lesson5_part2_recursion.ipynb)
 
 
 ### [Дополнительные задачи к уроку 2-1](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/02_2_tasks.ipynb)
