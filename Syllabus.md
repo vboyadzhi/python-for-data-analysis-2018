@@ -14,7 +14,7 @@
 5. [Выбор Среды разработки](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/01/01_01_%D0%92%D1%8B%D0%B1%D0%BE%D1%80%20%D0%A1%D1%80%D0%B5%D0%B4%D1%8B%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8.md)
 6. [Полезные ссылки](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/01/01_02_%D0%9F%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B5%20%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8.md)
 
-### [Задачи к уроку 1](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/01_tasks.ipynb)
+### [Задачи к уроку 1](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/01_tasks.ipynb) [Решение](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/01_tasks_solutions.ipynb)
 
 ### Дополнительный материал к уроку 1
  1. [10 things you really should know about jupyter notebooks - Jakub Czakon](https://www.youtube.com/watch?v=FwUcJFSAfQw) + [source code](https://github.com/deepsense-ai/pydatawarsaw-notebooks)
