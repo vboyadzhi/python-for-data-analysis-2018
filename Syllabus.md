@@ -1,12 +1,18 @@
 
 <img src="imgs/python.png" align="left" height="140" width="140"><img src="imgs/mts.jpeg" align="right" height="140" width="140"><center><h1> Python for Data Analysis MTSBank</h1><h2>Программа курса</h2></center>
 
+## GIT:
+1. самый короткий гайд по git http://rogerdudler.github.io/git-guide/
+2. курс по git https://www.codecademy.com/learn/learn-git
+3. как писать комментарии при коммитах в git https://chris.beams.io/posts/git-commit/
+
 ## 1. Введение в Python
-1. Смотреть лекции https://www.coursera.org/learn/diving-in-python/home/week/1
-2. [Конспект](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/01/01_конспект.pdf)
-3. [Установка Python 3](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/01/01_00_%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%20Python%203.md)
-4. [Выбор Среды разработки](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/01/01_01_%D0%92%D1%8B%D0%B1%D0%BE%D1%80%20%D0%A1%D1%80%D0%B5%D0%B4%D1%8B%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8.md)
-5. [Полезные ссылки](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/01/01_02_%D0%9F%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B5%20%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8.md)
+1. [Python CheatSheet](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/data/python_cheatsheet.pdf)
+2. Смотреть лекции https://www.coursera.org/learn/diving-in-python/home/week/1
+3. [Конспект](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/01/01_конспект.pdf)
+4. [Установка Python 3](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/01/01_00_%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%20Python%203.md)
+5. [Выбор Среды разработки](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/01/01_01_%D0%92%D1%8B%D0%B1%D0%BE%D1%80%20%D0%A1%D1%80%D0%B5%D0%B4%D1%8B%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8.md)
+6. [Полезные ссылки](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/01/01_02_%D0%9F%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B5%20%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8.md)
 
 ### [Задачи к уроку 1](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/01_tasks.ipynb)
 
@@ -36,3 +42,17 @@
 
 ### [Дополнительные задачи к уроку 2-1](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/02_2_tasks.ipynb)
 ### [Дополнительные задачи к уроку 2-2](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/02_3_tasks.ipynb)
+
+
+## 3. Первичный анализ данных с Pandas
+
+1. [Pandas CheatSheet](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/data/Pandas_Cheat_Sheet.pdf)
+2. [Первичный анализ данных с Pandas](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/03/topic1_habr_pandas.ipynb)
+
+### [Задачи к уроку 3-1](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/03_1_tasks.ipynb)
+### [Задачи к уроку 3-2](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/03_2_tasks.ipynb)
+
+
+### Дополнительный материал к уроку 3
+1. [Numpy CheatSheet](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/data/numpy_cheatsheet.pdf)
+2. [Numpy Basics](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/03/topic1_habr_pandas.ipynb)
