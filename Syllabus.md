@@ -40,6 +40,10 @@
  11. [Рекурсивные функции](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/02/lesson5_part2_recursion.ipynb)
 
 
+
+### Дополнительный материал к уроку 2
+ 1. [The Python ecosystem for Data Science: A guided tour - Christian Staudt](https://www.youtube.com/watch?v=EBgUiuFXE3E) + [source code](https://github.com/vboyadzhi/python-for-data-analysis-2018/tree/master/02-lection) + [slides](https://github.com/vboyadzhi/python-for-data-analysis-2018/tree/master/02-lection/PythonDataScienceEcosystem-Slides-slides.pdf)
+
 ### [Дополнительные задачи к уроку 2-1](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/02_2_tasks.ipynb)
 ### [Дополнительные задачи к уроку 2-2](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/02_3_tasks.ipynb)
 

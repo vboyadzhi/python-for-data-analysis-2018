@@ -17,20 +17,21 @@
 
 ## Rating
  
-FIO | hw1 | hw2 | hw3
---- | --- | --- | ---
-nvolkova | + | + | 
-aaleshin | + | | 
-asviridov | + | | 
-dkuznecov | + | | 
-dshchurovskij | + | | 
-efomin | + | | 
-kbutorin | + | | 
-lalimpiev | + | | 
-muludziev | + | | 
-savdonin | + | | 
-tmongush | + | | 
-tulumdziev | + | | 
-vkorchagina | + | | 
-vsharkeev | + | | 
-vtimofeev | + | | 
+# | FIO | hw1 | hw2 | hw3
+--- | --- | --- | --- | ---
+1. | dkuznecov | + | + | 
+2. | lalimpiev | + | + | 
+3. | muludziev | + | + | 
+4. | nvolkova | + | + | 
+5. | tmongush | + | + | 
+6. | vtimofeev | + | + | 
+7. | aaleshin | + | | 
+8. | ashamaev | + | |
+9. | asviridov | + | | 
+10. | dshchurovskij | + | | 
+11. | efomin | + | | 
+12. | kbutorin | + | | 
+13. | savdonin | + | | 
+14. | tulumdziev | + | | 
+15. | vkorchagina | + | | 
+16. | vsharkeev | + | | 
