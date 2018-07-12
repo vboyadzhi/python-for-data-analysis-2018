@@ -18,9 +18,9 @@
 ## Rating
  
 FIO | Sum | hw1 | hw2 | hw2_add | hw3 |
---- | --- | --- | ---
+--- | --- | --- | --- | --- | ---
 kuznecov_denis | 28 | 13 | 13 | 2 | +
-aleshin_alexandr | 27 |13 | 13 | 1 | +
+aleshin_alexandr | 27 | 13 | 13 | 1 | +
 volkova natalia | 27 | 14 | 13 | |
 shamaev_alexey | 25 | 12 | 13 | |
 alimpiev leonid | 14 | 14 | + | | +
@@ -29,7 +29,7 @@ timofeev vladimir | 14 | 14 | + | | +
 ulumdzieev maxim | 14 | 14 | | + |
 ulundziev timur | 14 | 14 | | |
 fomin evgeniy | 14 | 14 | | |
-shchurovskiy dmitriy | 14 | 14 | + |
+shchurovskiy dmitriy | 14 | 14 | + | |
 avdonin sergey | 13 | 13 | | |
 baukina tatiana | 13 | 13 | + | |
 butorin konstantin | 13 | 13 | | |
