@@ -17,20 +17,22 @@
 
 ## Rating
  
-FIO | hw1 | hw2 | hw3
+FIO | Sum | hw1 | hw2 | hw2_add | hw3 |
 --- | --- | --- | ---
-nvolkova | + | + | 
-aaleshin | + | | 
-asviridov | + | | 
-dkuznecov | + | | 
-dshchurovskij | + | | 
-efomin | + | | 
-kbutorin | + | | 
-lalimpiev | + | | 
-muludziev | + | | 
-savdonin | + | | 
-tmongush | + | | 
-tulumdziev | + | | 
-vkorchagina | + | | 
-vsharkeev | + | | 
-vtimofeev | + | | 
+kuznecov_denis | 28 | 13 | 13 | 2 | +
+aleshin_alexandr | 27 |13 | 13 | 1 | +
+volkova natalia | 27 | 14 | 13 | |
+shamaev_alexey | 25 | 12 | 13 | |
+alimpiev leonid | 14 | 14 | + | | +
+korchagiva valeria | 14 | 14 | | |
+timofeev vladimir | 14 | 14 | + | | +
+ulumdzieev maxim | 14 | 14 | | + |
+ulundziev timur | 14 | 14 | | |
+fomin evgeniy | 14 | 14 | | |
+shchurovskiy dmitriy | 14 | 14 | + |
+avdonin sergey | 13 | 13 | | |
+baukina tatiana | 13 | 13 | + | |
+butorin konstantin | 13 | 13 | | |
+mongush tengiz | 13 | 13 | + | |
+sharkeev viktor | 13 | 13 | | |
+sviridov alexey | 12 | 12 | | |

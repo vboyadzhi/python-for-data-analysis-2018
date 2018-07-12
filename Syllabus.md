@@ -24,7 +24,7 @@
 1. Смотреть лекции https://www.coursera.org/learn/diving-in-python/home/week/2
 2. [Конспект](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/02/02_конспект.pdf)
 
-### [Задачи к уроку 2](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/02_1_tasks.ipynb)
+### [Задачи к уроку 2](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/02_1_tasks.ipynb)[Решение](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/02_1_tasks_solutions.ipynb)
 
 ### Дополнительный материал к уроку 2
  1. [Списки, кортежи](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/02/lesson3_part1_lists_tuples.ipynb)
@@ -40,8 +40,8 @@
  11. [Рекурсивные функции](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/02/lesson5_part2_recursion.ipynb)
 
 
-### [Дополнительные задачи к уроку 2-1](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/02_2_tasks.ipynb)
-### [Дополнительные задачи к уроку 2-2](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/02_3_tasks.ipynb)
+### [Дополнительные задачи к уроку 2-1](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/02_2_tasks.ipynb)[Решение](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/02_2_tasks_solutions.ipynb)
+### [Дополнительные задачи к уроку 2-2](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/02_3_tasks.ipynb)[Решение](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/02_3_tasks_solutions.ipynb)
 
 
 ## 3. Первичный анализ данных с Pandas
@@ -56,3 +56,12 @@
 ### Дополнительный материал к уроку 3
 1. [Numpy CheatSheet](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/data/numpy_cheatsheet.pdf)
 2. [Numpy Basics](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/03/topic1_habr_pandas.ipynb)
+
+
+## 4. Визуальный анализ данных
+
+1. [topic2_part1_seaborn_matplotlib_plotly](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/04/topic2_part1_seaborn_matplotlib_plotly.ipynb3)
+2. [topic2_part2_telecom_churn_tsne](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/04/topic2_part2_telecom_churn_tsne.ipynb3)
+
+### [Задачи к уроку 4-1](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/04_1_tasks.ipynb)
+### [Задачи к уроку 4-2](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/04_2_tasks.ipynb)
