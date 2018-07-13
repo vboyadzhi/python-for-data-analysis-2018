@@ -64,8 +64,8 @@
 
 ## 4. Визуальный анализ данных
 
-1. [topic2_part1_seaborn_matplotlib_plotly](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/04/topic2_part1_seaborn_matplotlib_plotly.ipynb3)
-2. [topic2_part2_telecom_churn_tsne](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/04/topic2_part2_telecom_churn_tsne.ipynb3)
+1. [topic2_part1_seaborn_matplotlib_plotly](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/04/topic2_part1_seaborn_matplotlib_plotly.ipynb)
+2. [topic2_part2_telecom_churn_tsne](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/04/topic2_part2_telecom_churn_tsne.ipynb)
 
-### [Задачи к уроку 4-1](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/04_1_tasks.ipynb)
-### [Задачи к уроку 4-2](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/04_2_tasks.ipynb)
+### [Задачи к уроку 4-1](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/04_01_tasks.ipynb)
+### [Задачи к уроку 4-2](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/04_02_tasks.ipynb)
