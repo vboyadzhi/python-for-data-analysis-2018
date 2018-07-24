@@ -24,7 +24,12 @@
 1. Смотреть лекции https://www.coursera.org/learn/diving-in-python/home/week/2
 2. [Конспект](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/02/02_конспект.pdf)
 
-### [Задачи к уроку 2](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/02_1_tasks.ipynb)[Решение](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/02_1_tasks_solutions.ipynb)
+### Дополнительный материал к уроку 2
+ 1. [The Python ecosystem for Data Science: A guided tour - Christian Staudt](https://www.youtube.com/watch?v=EBgUiuFXE3E) + [source code](https://github.com/vboyadzhi/python-for-data-analysis-2018/tree/master/02-lection) + [slides](https://github.com/vboyadzhi/python-for-data-analysis-2018/tree/master/02-lection/PythonDataScienceEcosystem-Slides-slides.pdf)
+
+### [Задачи к уроку 2-1](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/02_1_tasks.ipynb) [Решение](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/02_1_tasks_solutions.ipynb)
+### [Дополнительные задачи к уроку 2-3](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/02_2_tasks.ipynb) [Решение](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/02_2_tasks_solutions.ipynb)
+### [Дополнительные задачи к уроку 2-3](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/02_3_tasks.ipynb) [Решение](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/02_3_tasks_solutions.ipynb)
 
 ### Дополнительный материал к уроку 2
  1. [Списки, кортежи](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/02/lesson3_part1_lists_tuples.ipynb)
@@ -39,15 +44,6 @@
  10. [Функции](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/02/lesson5_part1_functions.ipynb)
  11. [Рекурсивные функции](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/02/lesson5_part2_recursion.ipynb)
 
-
-
-### Дополнительный материал к уроку 2
- 1. [The Python ecosystem for Data Science: A guided tour - Christian Staudt](https://www.youtube.com/watch?v=EBgUiuFXE3E) + [source code](https://github.com/vboyadzhi/python-for-data-analysis-2018/tree/master/02-lection) + [slides](https://github.com/vboyadzhi/python-for-data-analysis-2018/tree/master/02-lection/PythonDataScienceEcosystem-Slides-slides.pdf)
-
-### [Дополнительные задачи к уроку 2-1](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/02_2_tasks.ipynb)
-### [Дополнительные задачи к уроку 2-2](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/02_3_tasks.ipynb)
-
-
 ## 3. Первичный анализ данных с Pandas
 
 1. [Pandas CheatSheet](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/data/Pandas_Cheat_Sheet.pdf)
@@ -55,7 +51,6 @@
 
 ### [Задачи к уроку 3-1](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/03_1_tasks.ipynb)
 ### [Задачи к уроку 3-2](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/tasks/03_2_tasks.ipynb)
-
 
 ### Дополнительный материал к уроку 3
 1. [Numpy CheatSheet](https://github.com/vboyadzhi/python-for-data-analysis-2018/blob/master/data/numpy_cheatsheet.pdf)
