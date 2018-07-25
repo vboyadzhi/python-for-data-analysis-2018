@@ -17,22 +17,22 @@
 
 ## Rating
  
-FIO | Sum | hw1 | hw2 | hw2_add | hw3 |
---- | --- | --- | --- | --- | ---
-kuznecov_denis | 28 | 13 | 13 | 2 | +
-aleshin_alexandr | 27 | 13 | 13 | 1 | +
-volkova natalia | 27 | 14 | 13 | |
-shamaev_alexey | 25 | 12 | 13 | |
-alimpiev leonid | 14 | 14 | + | | +
-korchagiva valeria | 14 | 14 | | |
-timofeev vladimir | 14 | 14 | + | | +
-ulumdzieev maxim | 14 | 14 | | + |
-ulundziev timur | 14 | 14 | | |
-fomin evgeniy | 14 | 14 | | |
-shchurovskiy dmitriy | 14 | 14 | + | |
-avdonin sergey | 13 | 13 | | |
-baukina tatiana | 13 | 13 | + | |
-butorin konstantin | 13 | 13 | | |
-mongush tengiz | 13 | 13 | + | |
-sharkeev viktor | 13 | 13 | | |
-sviridov alexey | 12 | 12 | | |
+FIO | Sum | hw1 | hw2 | hw2_add | hw3 | hw3_add 
+--- | --- | --- | --- | --- | --- | ---
+alimpiev leonid | 50 | 14 | 14 | 2 | 12 | 8
+timofeev vladimir | 50 | 14 | 14 | 2 | 12 | 8
+kuznecov_denis | 48 | 13 | 13 | 2 | 12 | 8
+aleshin_alexandr | 47 | 13 | 13 | 1 | 12 | 8
+shamaev_alexey | 45 | 12 | 13 |  | 12 | 8
+mongush tengiz | 37 | 13 | 12 |  | 12 | 
+ulundziev timur | 34 | 14 |  |  | 12 | 8
+shchurovskiy dmitriy | 28 | 14 | 14 |  |  | 
+volkova natalia | 27 | 14 | 13 |  |  | 
+ulumdzieev maxim | 27 | 14 | 13 |  |  | 
+baukina tatiana | 23 | 13 | 10 |  |  | 
+korchagiva valeria | 14 | 14 |  |  |  | 
+fomin evgeniy | 14 | 14 |  |  |  | 
+avdonin sergey | 13 | 13 |  |  |  | 
+butorin konstantin | 13 | 13 |  |  |  | 
+sharkeev viktor | 13 | 13 |  |  |  | 
+sviridov alexey | 12 | 12 |  |  |  | 
