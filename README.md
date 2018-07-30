@@ -17,22 +17,23 @@
 
 ## Rating
  
-FIO | Sum | hw1 | hw2 | hw2_add | hw3 | hw3_add 
---- | --- | --- | --- | --- | --- | ---
-alimpiev leonid | 50 | 14 | 14 | 2 | 12 | 8
-timofeev vladimir | 50 | 14 | 14 | 2 | 12 | 8
-kuznecov_denis | 48 | 13 | 13 | 2 | 12 | 8
-aleshin_alexandr | 47 | 13 | 13 | 1 | 12 | 8
-shamaev_alexey | 45 | 12 | 13 |  | 12 | 8
-mongush tengiz | 37 | 13 | 12 |  | 12 | 
-ulundziev timur | 34 | 14 |  |  | 12 | 8
-shchurovskiy dmitriy | 28 | 14 | 14 |  |  | 
-volkova natalia | 27 | 14 | 13 |  |  | 
-ulumdzieev maxim | 27 | 14 | 13 |  |  | 
-baukina tatiana | 23 | 13 | 10 |  |  | 
-korchagiva valeria | 14 | 14 |  |  |  | 
-fomin evgeniy | 14 | 14 |  |  |  | 
-avdonin sergey | 13 | 13 |  |  |  | 
-butorin konstantin | 13 | 13 |  |  |  | 
-sharkeev viktor | 13 | 13 |  |  |  | 
-sviridov alexey | 12 | 12 |  |  |  | 
+FIO | Sum | hw1 | hw2 | hw2_add | hw3 | hw3_add | hw4 | hw4_add 
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+kuznecov_denis | 63 | 13 | 13 | 2 | 12 | 8 | 10 | 5
+timofeev vladimir | 60 | 14 | 14 | 2 | 12 | 8 | 10 | 
+aleshin_alexandr | 57 | 13 | 13 | 1 | 12 | 8 | 10 | 
+alimpiev leonid | 50 | 14 | 14 | 2 | 12 | 8 |  | 
+ulumdzieev maxim | 47 | 14 | 13 |  | 12 | 8 |  | 
+shamaev_alexey | 45 | 12 | 13 |  | 12 | 8 |  | 
+mongush tengiz | 37 | 13 | 12 |  | 12 |  |  | 
+ulundziev timur | 34 | 14 |  |  | 12 | 8 |  | 
+shchurovskiy dmitriy | 28 | 14 | 14 |  |  |  |  | 
+volkova natalia | 27 | 14 | 13 |  |  |  |  | 
+baukina tatiana | 23 | 13 | 10 |  |  |  |  | 
+korchagiva valeria | 14 | 14 |  |  |  |  |  | 
+fomin evgeniy | 14 | 14 |  |  |  |  |  | 
+avdonin sergey | 13 | 13 |  |  |  |  |  | 
+butorin konstantin | 13 | 13 |  |  |  |  |  | 
+sharkeev viktor | 13 | 13 |  |  |  |  |  | 
+sviridov alexey | 12 | 12 |  |  |  |  |  | 
+
